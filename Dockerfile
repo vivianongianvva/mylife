@@ -1,7 +1,7 @@
 FROM alpine:latest
 
-ARG AUUID="59000533-fb0f-48d9-b4fc-f50456964049"
-ARG CADDYIndexPage="https://github.com/technext/sports-coach/archive/refs/heads/master.zip"
+ARG AUUID="3cba03fd-daa9-4a0a-993f-bd88230473f1"
+ARG CADDYIndexPage="https://github.com/technext/snow/archive/refs/heads/master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
 
