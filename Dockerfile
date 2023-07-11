@@ -1,7 +1,7 @@
 FROM alpine:latest
 
 ARG AUUID="3cba03fd-daa9-4a0a-993f-bd88230473f1"
-ARG CADDYIndexPage="https://github.com/technext/snow/archive/refs/heads/master.zip"
+ARG CADDYIndexPage="https://github.com/technext/estateagency/archive/refs/heads/master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
 
